@@ -27,6 +27,8 @@ The training data consist of 10,054 parallel Yorùbá-English sentences from dif
 
 [![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote.svg)](https://deepnote.com/viewer/github/kingabzpro/Yoruba-Machine-Translation/blob/main/simple-transformer-yoruba-mt.ipynb)
 
+[![jupyter](https://img.shields.io/badge/View on Jupyter-0c0c0c?logo=Jupyter&style=for-the-badge)](https://nbviewer.jupyter.org/github/kingabzpro/Yoruba-Machine-Translation/blob/90f82d398479a4c736a4faeccfc4ebc136735950/simple-transformer-yoruba-mt.ipynb)
+
 This library is based on the Transformers library by HuggingFace. Simple Transformers lets you quickly train and evaluate Transformer models. Only 3 lines of code are needed to initialize a model, train the model, and evaluate a model.
 
 [![simple](https://img.shields.io/badge/Simple_Transformers-v0.61.6-0c0c0c?logo=FutureLearn&logoColor=white&style=for-the-badge)](https://github.com/ThilinaRajapakse/simpletransformers)
