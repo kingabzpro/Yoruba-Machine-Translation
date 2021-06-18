@@ -66,3 +66,8 @@ Using simple transformer seq2seq I have downloaded `Helsinki-NLP/opus-mt-mul-en`
 - max_length = 120
 - src_lang ="yor"
 - tgt_lang ="en_XX"
+
+# Results
+
+![](image-20210618-104819.png)
+
