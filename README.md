@@ -25,7 +25,7 @@ The training data consist of 10,054 parallel Yorùbá-English sentences from dif
 
 # My solution
 
-[![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote.svg)](https://deepnote.com/viewer/github/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)
+[![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote.svg)](https://deepnote.com/viewer/github/kingabzpro/Yoruba-Machine-Translation/blob/main/simple-transformer-yoruba-mt.ipynb)
 
 This library is based on the Transformers library by HuggingFace. Simple Transformers lets you quickly train and evaluate Transformer models. Only 3 lines of code are needed to initialize a model, train the model, and evaluate a model.
 
